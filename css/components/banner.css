@@ -1,0 +1,19 @@
+h1 {
+  color: white;
+  font-size: 3em;
+  text-shadow: 2px 2px 5px black;
+}
+
+.banner p {
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 2px 2px 5px black;
+}
+.banner {
+  background: linear-gradient( rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5) ), url("https://images6.alphacoders.com/391/thumb-1920-391398.jpg");
+  height: 400px;
+  /* background-position: 0 10px; */
+  background-repeat: no-repeat;
+  /* align-items: center; */
+  padding: 1px 0;
+}
